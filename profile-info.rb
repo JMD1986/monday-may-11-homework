@@ -2,8 +2,8 @@ name="John Daugherty"
 username="JMD1986"
 hometown="Chattanooga, TN"
 current_city="Austin, TX"
-favorite_foods=['A nice reuben sandwich', 'chimichangas', 'Schawarma', 'chicken and waffles', 'beer']
-other_favorites = {:Movie=>"Hot Rod", :Show=>"Futurama", :Band=>"Phish",}
+favorite_foods=['A nice reuben sandwich', 'chimichangas', 'Shawarma', 'chicken and waffles', 'beer']
+other_favorites = {:Movie=>"Step Brothers", :Show=>"Futurama", :Band=>"Phish",}
 zipcode=78745
 
 
